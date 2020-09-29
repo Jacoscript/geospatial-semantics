@@ -1,6 +1,6 @@
 name: Geospatial Semantics
 type: theme
-description: This a the Geospatial Semantics subtheme based on Drupal Bootstrap
+description: This is the Geospatial Semantics subtheme based on Drupal Bootstrap
 core: 8.x
 base theme: bootstrap
 libraries: 

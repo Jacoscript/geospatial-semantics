@@ -2,6 +2,7 @@ name: Geospatial Semantics
 type: theme
 description: This is the Geospatial Semantics subtheme based on Bootstrap4
 core: 8.x
+logo: 'logo.png'
 base theme: bootstrap4
 libraries: 
     - geospatial_semantics/global-styling

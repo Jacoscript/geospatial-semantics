@@ -6,9 +6,9 @@
     display: inline-block;
 }
 
-nav a:link,
-nav a:visited,
-nav a:hover,
-nav a:active {
+nav.navbar a:link,
+nav.navbar a:visited,
+nav.navbar a:hover,
+nav.navbar a:active {
     color: #fff;
 }

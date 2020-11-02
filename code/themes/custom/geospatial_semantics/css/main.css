@@ -12,3 +12,13 @@ nav.navbar a:hover,
 nav.navbar a:active {
     color: #fff;
 }
+
+/*#search-block-form #edit-keys.form-search {
+    padding-top: 0;
+    padding-bottom: 0;
+    height: 100%;
+    margin-top: 10px;
+}
+#search-block-form #edit-actions {
+    display: none!important;
+}*/
